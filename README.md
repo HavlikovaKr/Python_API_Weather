@@ -8,8 +8,8 @@ Tento projekt umožňuje uživatelům zadat název města a získat aktuální i
 # Funkce
 Získává aktuální údaje o počasí pomocí OpenWeatherMap API.
 Zobrazuje hlavní popis počasí (např. "Clear", "Cloudy").
-Poskytuje podrobný popis počasí (např. "jasná obloha").
-Umožňuje elegantní zpracování neplatných nebo neexistujících názvů měst, zobrazením chybové zprávy ("Město nenalezeno").
+Poskytuje podrobný popis počasí (např. "Clear sky").
+Umožňuje elegantní zpracování neplatných nebo neexistujících názvů měst, zobrazením chybové zprávy ("No city found").
 
 # Požadavky
 Python 
