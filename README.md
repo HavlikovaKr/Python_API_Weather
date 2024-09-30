@@ -16,10 +16,11 @@ Python
 Modul requests pro odesílání HTTP požadavků
 
 # Jak používat
-Získejte API klíč:
-Zaregistrujte se na OpenWeatherMap, abyste získali API klíč zdarma.
+Získejte API key: 
+Zaregistrujte se na OpenWeatherMap, abyste získali API key zdarma.
 Nahraďte proměnnou api_key ve skriptu vlastním API klíčem.
-
+Použitý API key z OpenWeatherMap: https://api.openweathermap.org/data/2.5/weather?q=London&appid={API key}
+London - nahrazen inputem {City}
 
 # Příklad
 Enter city: Praha
